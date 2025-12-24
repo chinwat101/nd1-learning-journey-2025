@@ -8,4 +8,4 @@
 
 ## MQTT Connection Taxonomy
 
-![MQTT Connection Taxonomy]([./images/mqtt-taxonomy.png](https://www.researchgate.net/publication/332675666/figure/fig1/AS%3A773721283387394%401561480937586/Publish-Subscribe-MQTT-Protocol.png))
+![MQTT Connection Taxonomy](https://medium.com/@santhoshziyam/understanding-mqtt-and-its-role-in-event-driven-api-system-architecture-ea478d666520)
