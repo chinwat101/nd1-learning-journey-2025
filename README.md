@@ -1,4 +1,4 @@
-<img width="1100" height="509" alt="image" src="https://github.com/user-attachments/assets/2fd005c1-b14b-44fb-9f1d-b567370504bd" /># nd1-learning-journey-2025
+# nd1-learning-journey-2025
 
 # IoT Concepts
 
