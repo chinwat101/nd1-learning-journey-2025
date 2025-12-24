@@ -8,4 +8,6 @@
 
 ## MQTT Connection Taxonomy
 
-![MQTT Connection Taxonomy](https://rightech.io/_next/image?url=%2Fdocs%2F19%2F1-1.webp&w=3840&q=95)
+<img src="[https://example.com/mqtt-taxonomy.png](https://rightech.io/_next/image?url=%2Fdocs%2F19%2F1-1.webp&w=3840&q=95)"
+     alt="MQTT Connection Taxonomy"
+     width="600">
