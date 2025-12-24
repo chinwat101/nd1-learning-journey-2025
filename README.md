@@ -1,4 +1,4 @@
-# nd1-learning-journey-2025
+<img width="1100" height="509" alt="image" src="https://github.com/user-attachments/assets/2fd005c1-b14b-44fb-9f1d-b567370504bd" /># nd1-learning-journey-2025
 
 # IoT Concepts
 
@@ -8,4 +8,4 @@
 
 ## MQTT Connection Taxonomy
 
-![MQTT Connection Taxonomy](https://medium.com/@santhoshziyam/understanding-mqtt-and-its-role-in-event-driven-api-system-architecture-ea478d666520)
+![MQTT Connection Taxonomy]([https://medium.com/@santhoshziyam/understanding-mqtt-and-its-role-in-event-driven-api-system-architecture-ea478d666520](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*vPWx3vjbEgD44IxkwGsgpg.png))
