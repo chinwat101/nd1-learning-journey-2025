@@ -120,3 +120,5 @@ Node-RED มักถูกใช้เป็น ตัวกลาง (Integrat
 * IoT Dashboard แบบ real-time
 * Data pipeline ขนาดเล็ก
 * Rapid prototype
+
+## Future Works/Projects
